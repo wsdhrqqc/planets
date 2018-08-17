@@ -1,7 +1,7 @@
-#Planets
+# Planets
 This is the learinig respo...
 
 ### Items
-*add infor
-*add Venus to planet
-*get bread
+* add infor
+* add Venus to planet
+* get bread
